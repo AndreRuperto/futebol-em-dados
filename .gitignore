@@ -1,0 +1,4 @@
+docs/previews/
+__pycache__/
+*.pyc
+/portal-*.png
